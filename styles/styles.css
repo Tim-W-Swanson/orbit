@@ -1,5 +1,5 @@
 #blegh {
-    background-image: url('..images/corgi.jpg');
+    background-image: url('../images/corgi.jpg');
     background-size: contain;
     background-repeat: repeat;
     width:100%;
