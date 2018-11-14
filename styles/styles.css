@@ -1,0 +1,8 @@
+#blegh {
+    background-image: url('..images/corgi.jpg');
+    background-size: contain;
+    background-repeat: repeat;
+    width:100%;
+    margin: 0 auto;
+    height: 400px;    
+}
