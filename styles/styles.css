@@ -84,6 +84,11 @@ nav
     margin-left: 20.8%;
     }
 
+.downloadbutton:hover  
+    {
+    opacity: 0.9;
+    }
+
 #page1 
     {
     }
@@ -162,9 +167,9 @@ nav
     padding-top: 50px;
     align-content: center;
     text-align: center;
-    width: 55%;
     margin: auto;
     height: 900px;
+    max-width: 30%;
     }
 
 footer 
