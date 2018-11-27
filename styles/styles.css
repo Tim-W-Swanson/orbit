@@ -1,5 +1,16 @@
+html {
+    background-color: #25283d;
+}
+
+nav    {
+    width: 74.2%;
+    padding-top: 30px;
+    margin-left: 20.4%;
+}
+
 #wrapper {
-    background-color: aqua;
+    margin-right: 11.6%;
+    margin-left: 20.8%;
 }
 
 
@@ -10,4 +21,36 @@
     width:100%;
     margin: 0 auto;
     height: 400px;    
+}
+
+#1st-page   {
+    background-image: url('../images/icon_starbg.png');
+}
+
+#2nd-page   {
+    
+}
+
+#feature-1  {
+    
+}
+
+#feature-2  {
+    
+}
+
+#feature-3  {
+    
+}
+
+#final-sell {
+    
+}
+
+#download   {
+    
+}
+
+#footer {
+    
 }
