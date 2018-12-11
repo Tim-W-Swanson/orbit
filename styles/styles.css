@@ -97,17 +97,6 @@ nav
     {
     }
 
-#blegh 
-    {
-    background-image: url('../images/corgi.jpg');
-    background-size: contain;
-    background-repeat: repeat;
-    background-repeat: no-repeat;
-    width:100%;
-    margin: 0 auto;
-    height: 400px;
-    }   
-
 .col1   
     {
     width: 36.85%;
